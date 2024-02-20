@@ -1,0 +1,15 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "An employee database manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanner Shank",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "mysql2": "^3.9.1"
+  }
+}
