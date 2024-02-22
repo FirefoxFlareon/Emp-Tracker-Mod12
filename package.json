@@ -9,7 +9,8 @@
   "author": "Tanner Shank",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.15",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
     "mysql2": "^3.9.1"
   }
 }
